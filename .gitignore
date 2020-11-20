@@ -2,6 +2,18 @@
 *.iml
 .idea/
 
+# Temp files
+~*
+
+# Project files
+app.properties
+
+# Maven
+Client/target/
+Server/target/
+Network/target/
+target/
+
 # Compiled class file
 *.class
 
